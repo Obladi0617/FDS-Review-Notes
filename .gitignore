@@ -1,0 +1,32 @@
+# 二进制与大型文件
+*.pdf
+*.exe
+*.zip
+*.pptx
+*.ppt
+*.gif
+*.png
+*.jpg
+*.dll
+
+# Web 垃圾文件（考试页面下载的碎片）
+*.js
+*.js.*
+*.css
+*.html
+*.download
+
+# 考试页面下载的碎片目录
+资料/ml05bliu/
+资料/okc3yjni/
+
+# 临时文件
+fix_replacements_*.txt
+~$*
+*.synctex.gz
+
+# Git 子模块
+.gitmodules
+
+# IDE
+.vscode/
